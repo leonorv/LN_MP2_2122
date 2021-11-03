@@ -1,0 +1,8 @@
+        Class  ...             Answer
+0     HISTORY  ...          Georgia\n
+1  LITERATURE  ...             Bret\n
+2       MUSIC  ...  (Aaron) Copland\n
+3       MUSIC  ...         Staccato\n
+4     SCIENCE  ...            fifth\n
+
+[5 rows x 3 columns]
